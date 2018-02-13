@@ -22,7 +22,7 @@ googleAnalytics = ""
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
-  favicon    = "favicon.ico"
+  favicon    = "favicon-heart (1).ico"
 
   # Just a custom image variable, please define it in .md files for content.
   image = ""
@@ -90,33 +90,33 @@ googleAnalytics = ""
     
     [[params.tiles.showcase]]
       title = "About our wedding"
-      subtitle = "What, Where and When"
+      subtitle = "What, Where, and When"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/about"
 
     [[params.tiles.showcase]]
       title = "Travel Information"
-      subtitle = "Transportation Information"
+      subtitle = "Travel & Transportation"
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/travel"
 
     [[params.tiles.showcase]]
       title = "Accomodations"
       subtitle = "Where to stay"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/accomodations"
 
     [[params.tiles.showcase]]
       title = "Local information"
       subtitle = "Activities, restaurants, and maps"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/local-info"
 
     [[params.tiles.showcase]]
       title = "FAQs"
       subtitle = "Childcare information and dresscode"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/faw"
 
     [[params.tiles.showcase]]
       title = "About Tommasina and Casey"
@@ -182,54 +182,28 @@ googleAnalytics = ""
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    # formEmail = "example@domain.com"
+    formEmail = "caseymetz@gmail.com"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "caseymetz@gmail.com"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "(414) 239-4302"
 
     [[params.contact.address]]
     title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    street = "1300 Monroe Street, #401"
+    city = "Denver, CO 80206"
+    country = "USA"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
-
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
-
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
-
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
-    
-    [[params.footer.social]]
-      icon = "fa-github"
-      url= "https://www.github.com"
-      label = "GitHub"
-
-    [[params.footer.social]]
-      icon = "fa-linkedin"
-      url= "https://www.linkedin.com"
-      label = "LinkedIn"
 
     [[params.footer.quicklinks]]
       text = "Design: "
