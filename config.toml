@@ -116,31 +116,31 @@ googleAnalytics = ""
       title = "FAQs"
       subtitle = "Childcare information and dresscode"
       image = "pic05.jpg"
-      url = "blogs/faw"
+      url = "blogs/faq"
 
     [[params.tiles.showcase]]
       title = "About Tommasina and Casey"
-      subtitle = "Who are we even"
+      subtitle = ""
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/about-us"
 
     [[params.tiles.showcase]]
       title = "Our fave photos"
       subtitle = "We think we're pretty cute"
       image = "pic07.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/photos"
 
     [[params.tiles.showcase]]
       title = "VIP bios"
       subtitle = "About our families and attendants"
       image = "pic08.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/vips"
 
     [[params.tiles.showcase]]
       title = "Registry"
       subtitle = ""
       image = "pic09.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/registry"
 
     # You can make more showcases by copy and pasting the code above
 
