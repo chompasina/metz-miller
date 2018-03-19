@@ -2,6 +2,7 @@
 
 ## Developing locally
 
+* After first cloning down this repo, you'll need to cd into themes and `git clone https://github.com/MarcusVirg/forty` to install the theme
 * Edit assets in the static directory, except the banner.jpg which needs to replace the theme's banner in the themes directory.
 * Run server with `hugo server`
 
