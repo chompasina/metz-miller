@@ -15,7 +15,7 @@ we love our people! check back later for really cute pictures of them...
 
 <div class='people-list'>
 <div class="person-wrapper">
-<div class="honor-image-wrap"><img src="amandaH-coffee.jpg" class="honor-image"></div>
+<div class="honor-image-wrap"><img src="AmandaH.JPG" class="honor-image"></div>
 <p class="honor-text">Amanda Hymansmith: Matron of Honor. 'AmandaH' has been my bosom friend since college. (If that sounds unfamiliar to you, just pause here and re-read Anne of Green Gables.) She's inspired so much about the way I try to live by my values, and she's been there for me through most of the formative experiences of my adulthood. In fact, just two months after Casey and I started dating, I arranged for us to visit her and her wonderful partner, Matt, in Portland to get her opinion. Obviously, she approved! ;)</p>
 </div>
 
@@ -27,7 +27,7 @@ we love our people! check back later for really cute pictures of them...
 
 <div class="person-wrapper">
 
-<div class="honor-image-wrap"><img src="amandaR-coffee.jpg" class="honor-image"/></div> <p class="honor-text">Amanda Rudderman: Bridesmaid. 'AmandaR' is my other best friend named Amanda from college. She's taught me a lot about relationships and family, and she's listened to me sob about more than one heartbreak. (She has the patience of a social worker, because she is a social worker.) I love her honesty and compassion, sense of humor, and her dance moves. We are birds of a feather.</p>
+<div class="honor-image-wrap"><img src="AmandaR.jpg" class="honor-image"/></div> <p class="honor-text">Amanda Rudderman: Bridesmaid. 'AmandaR' is my other best friend named Amanda from college. She's taught me a lot about relationships and family, and she's listened to me sob about more than one heartbreak. (She has the patience of a social worker, because she is a social worker.) I love her honesty and compassion, sense of humor, and her dance moves. We are birds of a feather.</p>
 
 </div>
 
