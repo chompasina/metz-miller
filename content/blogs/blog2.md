@@ -13,6 +13,6 @@ draft: false
 
 Driving times: the Metz family farm is 20 minutes from Oshkosh, 30 minutes from Appleton, 60 minutes from Green Bay, 90 minutes from Milwaukee, 2 hours from Madison, and 2.5 hours from Chicago.
 
-Closest airport: Milwaukee, but Chicago's O'Hare would get you here too.
+Closest airport: Milwaukee, but Chicago's O'Hare would get you here too. We've heard rumor of an airport in Appleton, too. 
 
 Carpooling and parking information TBD

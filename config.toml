@@ -189,7 +189,7 @@ googleAnalytics = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "caseymetz@gmail.com"
+    email = "meow@metz-miller.com"
 
     [[params.contact.phone]]
     title = "Phone"

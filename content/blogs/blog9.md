@@ -13,11 +13,10 @@ draft: false
 
 We are so excited that you're going to make it to our special day! We truly can't wait to see you.
 
-If you're interested in giving us even more than your presence at our wedding, we are so touched and hope you don't mind this little explanation of the way we're registering for gifts. Our preference is to both reduce our impact on the earth and to participate in the 'slow' economy by finding old (as opposed to _new_) things that bring value into our lives.
+If you're interested in giving us even more than your presence at our wedding, we are so touched! And we hope you don't mind this little explanation of the way we're registering for gifts. Our preference is to both reduce our impact on the earth and to participate in the 'slow' economy by finding vintage, used, handmade, or refurbished things that bring value into our lives.
 
 Since this is a non-traditional registry without an anonymous way to mark gifts as purchased, Tommasina's mother, Sue, has offered to help keep track of items on this list for us. Please feel free to send an email to flsuemiller@gmail.com with whatever item you've picked for us, and she'll let us know to mark it as received on the list. We really appreciate your love and care, and we hope you don't mind our presumption in creating this list!
 
-Vintage, used, or refurbished items that we would LOVE:
 ### Kitchen
 - A Kitchenaid stand mixer - any color
 - A wooden salad bowl
@@ -51,12 +50,14 @@ Vintage, used, or refurbished items that we would LOVE:
 - Anything lovingly handmade by you or someone else!
 
 ### Lifelong learning
-- A compound microscope so we can fancy ourselves amateur biologists and marvel at cells
+- A compound microscope so we can fancy ourselves amateur microbiologists and marvel at cells
 - Any kind of telescope that we can use to wonder at the universe
 - A book that is really meaningful to you
 - Easel and canvases
 - Piano and/or help moving a piano once we get one
 - A 1080p projector
+- A great dictionary
+- A dictionary stand 😍
 
 ### Cleaning and other initiatives
 - A Miele canister vacuum
@@ -67,6 +68,5 @@ Vintage, used, or refurbished items that we would LOVE:
 - Gift certificate for house plants at a local nursery
 - Gift certificate for the Sunday New York Times
 - Donation of your time helping us build a cat tree in our house
-- Donation to any of these effective charities: https://www.givewell.org/charities/top-charities
-
+- Donation to any of these effective charities: https://www.givewell.org/charities/top-charities or https://animalcharityevaluators.org/charity-review/the-good-food-institute/
 
