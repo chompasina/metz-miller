@@ -1,6 +1,6 @@
 ---
 title: "People of Honor"
-description: "About our families and attendants"
+description: "About our attendants"
 slug: "vips"
 image: pic07.jpg
 keywords: ""
@@ -10,8 +10,6 @@ categories:
 date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
-
-we love our people! check back later for really cute pictures of them...
 
 ![amandaimage](amandaH-coffee.jpg#honor-image)<p class="honor-text">Amanda Hymansmith: Matron of Honor. 'AmandaH' has been my bosom friend since college. (If that sounds unfamiliar to you, just pause here and re-read Anne of Green Gables.) She's inspired so much about the way I try to live by my values, and she's been there for me through most of the formative experiences of my adulthood. In fact, just two months after Casey and I started dating, I arranged for us to visit her and her wonderful partner, Matt, in Portland to get her opinion. Obviously, she approved! ;)</p>
 

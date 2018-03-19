@@ -23,9 +23,13 @@ Casey Metz: When I arrived to sit with those same friends at Avo's, Tommasina wa
 
 Tommasina: When the band had finished, Tommasina saw that a strange handsome man was sitting in her seat and in front of her beer. She excused her reach and took her beer back.
 
-Casey: I was encouraged by this and after introducing myself, asked her if she wanted a ride to the band's after-party at their mutual friend's house. Tommasina had biked so she declined but I wasn't ready to give up. At our friend's, we continued to talk for a few hours (Latin root words and noun declinations was the subject of conversation for a while) but alas, we said good-bye with no plans to meet again. I thought I'd never see her again until I ran into her a few weeks later on the CSU campus. We made plans to see each other at the Sustainability Fair that weekend and left it at that, but then, by an act of God, the Sustainability Fair was cancelled due to the devastating floods of 2013. Casey despaired but life went on.
+Casey: I was encouraged by this and after introducing myself, asked her if she wanted a ride to the band's after-party at their mutual friend's house. Tommasina had biked so she declined but I wasn't ready to give up. At our friend's, we continued to talk for a few hours (Latin root words and noun declinations was the subject of conversation for a while) but alas, we said good-bye with no plans to meet again. I thought I'd never see her again until I ran into her a few weeks later on the CSU campus. We made plans to see each other at the Sustainability Fair that weekend and left it at that, but then, by an act of God, the Sustainability Fair was cancelled due to the devastating floods of 2013. I despaired but life went on.
 
-Terry: That must have been hard for you seeing her walk by you while you were on a date. How did that feel for you?
+Terry: So even with God intervening, you two still conspired to meet?
+
+Tommasina: Well, 
+
+That must have been hard for you seeing her walk by you while you were on a date. How did that feel for you?
 
 The next time she saw me, Tommasina was meeting up with friends again at Avo's, for two-for-$5 tempeh burgers and bluegrass jam. She was carrying her two burgers to their table when she saw Casey! Her eyes lit up and she approached him before realizing, he was there on a date! Without saying a word, she continued past him to her friends and tried not to look his way the rest of the night. But Casey had other plans. He quickly wrapped up his OkCupid date and pretended to walk out with her and then turned right back around to go back to Avo's to see if Tommasina was still there. She was, and Casey even danced some to trick Tommasina into thinking that he liked to dance too. It worked though, and then Casey asked for Tommasina's number. She was so excited she put her name in his phone as 'Tommasina What What' which is, ridiculously, still her name in his phone.
 
