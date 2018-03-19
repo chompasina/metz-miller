@@ -37,7 +37,7 @@ we love our people! check back later for really cute pictures of them...
 </div>
 
 <div class="person-wrapper">
-<div class="honor-image-wrap"><img src="trevor2.jpg" class="honor-image"></div>
+<div class="honor-image-wrap"><img src="trevor2.jpeg" class="honor-image"></div>
 <p class="honor-text">Trevor Metz: Inevitably, the family legacy of “The Farm” will play a large role at the wedding, and Trevor is a particularly instrumental part of that family and that legacy. He answered the call to be the farm’s latest caretaker, and thanks to Trevor’s vision and hard work, we’ll all be in good hands on our celebration day. Although it’s been a long time since Casey had a ‘baby brother’, the uniquely fierce and unconditional love of the ‘big brother’ persists, and Casey couldn’t be more proud and thankful to have Trevor by his side, also as Best Man.</p>
 </div>
 </div>
