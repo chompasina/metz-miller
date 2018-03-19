@@ -21,23 +21,23 @@ we love our people! check back later for really cute pictures of them...
 
 <div class="person-wrapper">
 
+<div class="honor-image-wrap"><img src="AmandaR.jpeg" class="honor-image"/></div> <p class="honor-text">Amanda Rudderman: Bridesmaid. 'AmandaR' is my other best friend named Amanda from college. She's taught me a lot about relationships and family, and she's listened to me sob about more than one heartbreak. (She has the patience of a social worker, because she is a social worker.) I love her honesty and compassion, sense of humor, and her dance moves. We are birds of a feather.</p>
+
+</div>
+
+<div class="person-wrapper">
+
 <div class="honor-image-wrap"><img src="CK.jpg" class="honor-image"></div><p class="honor-text">C.K. Miller: Bridesmaid and Tommasina's one and only sister. C.K. has undoubtedly shaped me in the way only sisters can. She recently reminded me how unlikely it was that we had both won this county-wide student of the year award our senior years of high school, three years apart. Somehow we have the same experiences, even as we are entirely different people, and I love that about being her sister. She is brilliant and hilarious, and she can play word games with the Metz brothers at a speed that amazes me. Even though the last time she and my besties, the Amandas, were together, C.K. performed a really raunchy stand-up act that I still blush at the memory of, I'm really thrilled to have her by my side, adding some of that 'younger sister' edge to my life.</p>
 
 </div>
 
 <div class="person-wrapper">
-
-<div class="honor-image-wrap"><img src="AmandaR.jpg" class="honor-image"/></div> <p class="honor-text">Amanda Rudderman: Bridesmaid. 'AmandaR' is my other best friend named Amanda from college. She's taught me a lot about relationships and family, and she's listened to me sob about more than one heartbreak. (She has the patience of a social worker, because she is a social worker.) I love her honesty and compassion, sense of humor, and her dance moves. We are birds of a feather.</p>
-
-</div>
-
-<div class="person-wrapper">
-
+<div class="honor-image-wrap"><img src="logan.jpg" class="honor-image"></div>
 <p class="honor-text">Logan Metz: Logan is Casey’s oldest friend, and often mistaken for his twin, which is forgivable since they seem to share some kind of long-distance brotherly mind-meld that allows for months to pass without any beats missed in their repartee. He’s the only one to combine the family creative streak with enough bravery and focus to live life as an artist, and perhaps doesn’t know the extent to which Casey respects him for that, and is beyond honored to have him present as Best Man.</p>
 </div>
 
 <div class="person-wrapper">
-
+<div class="honor-image-wrap"><img src="trevor2.jpg" class="honor-image"></div>
 <p class="honor-text">Trevor Metz: Inevitably, the family legacy of “The Farm” will play a large role at the wedding, and Trevor is a particularly instrumental part of that family and that legacy. He answered the call to be the farm’s latest caretaker, and thanks to Trevor’s vision and hard work, we’ll all be in good hands on our celebration day. Although it’s been a long time since Casey had a ‘baby brother’, the uniquely fierce and unconditional love of the ‘big brother’ persists, and Casey couldn’t be more proud and thankful to have Trevor by his side, also as Best Man.</p>
 </div>
 </div>
