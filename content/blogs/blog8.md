@@ -26,5 +26,8 @@ we love our people! check back later for really cute pictures of them...
 <p class="honor-text">Trevor Metz: Inevitably, the family legacy of “The Farm” will play a large role at the wedding, and Trevor is a particularly instrumental part of that family and that legacy. He answered the call to be the farm’s latest caretaker, and thanks to Trevor’s vision and hard work, we’ll all be in good hands on our celebration day. Although it’s been a long time since Casey had a ‘baby brother’, the uniquely fierce and unconditional love of the ‘big brother’ persists, and Casey couldn’t be more proud and thankful to have Trevor by his side, also as Best Man.</p>
 
 
+And last but not least, we are thrilled that our friend, Sarah Dammeyer, will officiate our ceremony. Sarah and her family, Matt and Lailah, lived with Tommasina in DC, where they shared a house with a lot of lovely people, most of whom will be at our wedding! Tommasina especially loves Sarah's openheartedness which shines in all that Sarah does. Sarah and Matt were instrumental in helping Tommasina decide to move back to Colorado to live with Casey. Tommasina considers Sarah a soul sister.
+
+
 
 
